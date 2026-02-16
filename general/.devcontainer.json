@@ -20,7 +20,8 @@
 	},
         "ghcr.io/devcontainers/features/java:1": {
 	    "installMaven": true	
-	}
+	},
+	"ghcr.io/devcontainers/features/python:1": {}
     },
     "postCreateCommand": ""
 }
